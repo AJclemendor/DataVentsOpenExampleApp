@@ -1,0 +1,24 @@
+# General
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.xml
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.key
+backend/.server.log
+backend/.test-output/
+backend/.test_output/
+
+# Node / Next.js
+node_modules/
+.next/
+
+# IDEs
+.idea/
+.cursor/

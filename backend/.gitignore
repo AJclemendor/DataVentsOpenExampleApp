@@ -1,0 +1,8 @@
+.idea/VentsPyConsolidate.iml
+.idea/.gitignore
+.env
+*.key
+src/client/connect_dest_client/kalshi/rest_client.py
+__pycache__/
+.test-output/
+.test_output/
