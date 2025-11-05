@@ -1,4 +1,4 @@
-datavents>=0.1.0
+datavents @ git+https://github.com/AJclemendor/DataVentsOpen.git@main
 Flask>=2.3
 flask-cors>=4.0
 flask-sock>=0.7.0

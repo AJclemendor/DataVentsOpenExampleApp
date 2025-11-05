@@ -5,6 +5,7 @@ description = "DataVentsOpenExampleApp backend"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "datavents @ git+https://github.com/AJclemendor/DataVentsOpen.git@main",
     "black==24.4.2",
     "cryptography>=46.0.3",
     "eth-account===0.13.0",
